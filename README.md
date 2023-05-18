@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔭 I’m currently working on a .NET framework project for an organization
-### 🌱 I’m currently learning about LLMs, Machine Learning and Infrastructure 
+### 🔭 I’m currently working on finetuning LLMS and Rust backends
+### 🌱 I’m currently learning about LLMs, ML and Rust Infrastructure 
 
 
